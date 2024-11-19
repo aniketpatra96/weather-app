@@ -22,7 +22,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone <https://github.com/your-username/react-weather-app.git>
+git clone <https://aniketpatra96.github.io/weather-app/>
 cd react-weather-app
 Install dependencies:
 
